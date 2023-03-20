@@ -128,7 +128,7 @@
   .icon-user:before, .icon-cart:before {
     font-size: 3.5vw;
   }
-}
+} 
 @media (max-width: 500px) {
   .icon-dollar:before, .icon-globus:before, .icon-calendar:before {
     font-size: 3vw;
