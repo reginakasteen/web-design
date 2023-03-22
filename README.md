@@ -8,4 +8,4 @@
 Інструменти розробки: мови HTML5, CSS3, фреймворки Twitter Bootstrap або Material UI. (уроки від TutorialRepublic)
 
 #Посилання на звіт:
-https://drive.google.com/drive/folders/1g5hPiRYDnBYvVqJ3-b7jbooXsJFJ5B9-?usp=sharing
+https://docs.google.com/document/d/1xJmtBwvbfM9eG82lHiB-1rFsJjEpUyFtZBRkIKEYgvk/edit?usp=share_link
